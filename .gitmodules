@@ -1,0 +1,3 @@
+[submodule "unicap-protocol"]
+	path = unicap-protocol
+	url = https://github.com/vanessavieir/unicap-protocol.git
